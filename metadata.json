@@ -1,0 +1,8 @@
+{
+  "name": "Growllo - Performance Marketing Automation",
+  "description": "A high-conversion landing page for an AI-driven performance marketing agency, featuring an automated strategy generator powered by Gemini 3 Flash.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
